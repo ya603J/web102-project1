@@ -29,7 +29,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='https://drive.google.com/file/d/1TMqRM-kkCNvatWkGcmjcUP_NnZUI1rPz/view?usp=drive_link' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://private-user-images.githubusercontent.com/181181004/418262729-38d52b59-e1f9-4209-8518-7611d33740da.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NDA4MjEzMzgsIm5iZiI6MTc0MDgyMTAzOCwicGF0aCI6Ii8xODExODEwMDQvNDE4MjYyNzI5LTM4ZDUyYjU5LWUxZjktNDIwOS04NTE4LTc2MTFkMzM3NDBkYS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjUwMzAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI1MDMwMVQwOTIzNThaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1jOTAxNmJlYTI4YmVhYWY2Y2ExMjc4OGEwYzY1Zjc0NmZiMGQwMTBiODc1NTAyZDYwZjQwNTVkNTRmMmE0NDA3JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.aUG8nKxcnowAsynyKyVBI2w5U7QLp09iwoY2pk8EGC4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LiceCap  
