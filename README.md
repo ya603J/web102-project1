@@ -1,4 +1,4 @@
-# Web Development Project 1 - *Seattle Local Events Board*
+# Web Development Project 1 - *Seattle Local Events Board *
 
 Submitted by: **Ya Ji**
 
